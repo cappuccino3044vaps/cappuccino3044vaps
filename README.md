@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=cappuccino3044vaps&color=34ebe5&style=plastic&abbreviated=true)
+[![Qiita posts](https://qiita-badge.apiapi.app/s/cappuccino3044/posts.svg)](http://qiita.com/cappuccino3044)

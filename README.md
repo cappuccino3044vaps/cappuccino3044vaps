@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=cappuccino3044&theme=gruvbox)
 ![](https://komarev.com/ghpvc/?username=cappuccino3044vaps&color=061ebf&style=plastic&abbreviated=true)
 [![Qiita posts](https://qiita-badge.apiapi.app/s/cappuccino3044/posts.svg)](http://qiita.com/cappuccino3044)
+[![Qiita posts](https://qiita-badge.apiapi.app/contributions/cappuccino3044/.svg)](http://qiita.com/cappuccino3044)
 

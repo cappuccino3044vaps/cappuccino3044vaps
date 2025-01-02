@@ -1,5 +1,10 @@
-## Hi there 👋
+## ここは　cappuccinoのリポジトリ
+## データセットと　スクリプトが<br>
+## そぼくに　くらしている　リポジトリ<br>
 
+<説明><br>
+基本的に個人で管理しているリポジトリのみ置いています。<br>
+課題や研究用途の外部に公開できないリポジトリは非公開にしてあります。<br>
 <!--
 **cappuccino3044vaps/cappuccino3044vaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
